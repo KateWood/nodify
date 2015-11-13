@@ -3,7 +3,7 @@ var mongoose = require('mongoose');
 var app = express();
 
 // STARTED ON BUT NOT TESTED
-mongoose.connect('connection-string-goes-here', function(){
+mongoose.connect('booyakasha0=-==dakfjb', function(){
 	console.log('connected to mongo!');
 })
 
